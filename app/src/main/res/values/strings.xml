@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="singer1_text_view">Singer 1</string>
+    <string name="singer2_text_view">Singer 2</string>
+    <string name="singer3_text_view">Singer 3</string>
+    <string name="song_name_text_view">Song 1</string>
+    <string name="now_playing_song_name_text_view">Song Name</string>
+    <string name="now_playing_singer_name_text_view">Singer Name</string>
+</resources>

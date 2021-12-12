@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- dimensions of activity_main.xml file -->
+    <dimen name="cover_image_view_layout_height">300dp</dimen>
+    <dimen name="singer_name_text_view_layout_width">277dp</dimen>
+    <dimen name="singer_name_text_view_layout_marginTop">30dp</dimen>
+    <dimen name="singer_name_text_view_text_size">42sp</dimen>
+    <!-- dimensions of item_view.xml file -->
+    <dimen name="song_label_image_view_layout_width">64dp</dimen>
+    <dimen name="song_label_image_view_layout_height">41dp</dimen>
+    <dimen name="song_label_image_view_layout_marginTop">16dp</dimen>
+    <dimen name="song_name_text_view_textSize">30sp</dimen>
+    <dimen name="item_view_layout_margin">16dp</dimen>
+    <dimen name="song_name_text_view_layout_marginLeft">30dp</dimen>
+    <dimen name="play_arrow_image_view_layout_width">44dp</dimen>
+    <dimen name="play_arrow_image_view_layout_height">29dp</dimen>
+    <!-- dimensions of activity_play_song.xml file -->
+    <dimen name="now_playing_song_image_view_layout_height">300dp</dimen>
+    <dimen name="now_playing_song_image_view_layout_marginTop">75dp</dimen>
+    <dimen name="now_playing_song_seekbar_layout_margin">16dp</dimen>
+    <dimen name="song_playing_control_image_view_layout_width">36dp</dimen>
+    <dimen name="song_playing_control_image_view_layout_height">36dp</dimen>
+    <dimen name="song_playing_control_image_view_layout_marginTop">16dp</dimen>
+    <dimen name="skip_previous_image_view_layout_marginRight">16dp</dimen>
+    <dimen name="skip_next_image_view_layout_marginLeft">16dp</dimen>
+    <dimen name="now_playing_singer_name_text_view_layout_marginTop">8dp</dimen>
+    <dimen name="now_playing_song_name_text_view_textSize">42sp</dimen>
+</resources>
