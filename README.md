@@ -4,8 +4,8 @@ Udacity_Android_Basic_Nano_Degree_Program_Project4
 The goal of this project is to design and layout the flow for the structure of a Music Player app. 
 Note: this app does not actually play music, it just a structure!.
 
-![Screenshot_1639293145](https://user-images.githubusercontent.com/78722177/145703945-d786b4f9-19d4-4d11-bcce-cc03f9b5314f.png)
+![Screenshot_1639293145](https://user-images.githubusercontent.com/78722177/145704044-818bf158-5f20-4e7c-8138-405bdb414515.png)
 
-![Screenshot_1639293138](https://user-images.githubusercontent.com/78722177/145703948-04820f91-2dd5-449d-a7fa-315869c5979c.png)
+![Screenshot_1639293138](https://user-images.githubusercontent.com/78722177/145704045-7b744303-a469-4402-82ee-950fa6c66ae9.png)
 
-![Screenshot_1639293131](https://user-images.githubusercontent.com/78722177/145703955-96ae74bd-8c6f-4d6f-8b93-bc78ceed30ea.png)
+![Screenshot_1639293131](https://user-images.githubusercontent.com/78722177/145704051-25211f2d-9f5d-4836-a617-610ce6016481.png)
